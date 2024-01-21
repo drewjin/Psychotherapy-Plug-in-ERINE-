@@ -1,2 +1,2 @@
-# Psychotherapy Plug-in (ERINE)
+# Psychotherapy Plug-in (for ERINE)
 An ERINE platform plug-in designed for psycotherapy based on multi-modal technology
